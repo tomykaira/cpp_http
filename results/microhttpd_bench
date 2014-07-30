@@ -1,0 +1,35 @@
+0 / 1000 B                                                                                                                     ! 0.00 % 1000 / 1000 Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! 100.00 % 
+
+Summary:
+  Total:	0.0337 secs.
+  Slowest:	0.0024 secs.
+  Fastest:	0.0001 secs.
+  Average:	0.0004 secs.
+  Requests/sec:	29695.8677
+  Total Data Received:	21000 bytes.
+  Response Size per Request:	21 bytes.
+
+Status code distribution:
+  [200]	1000 responses
+
+Response time histogram:
+  0.000 [1]	|
+  0.000 [370]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.001 [580]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.001 [17]	|∎
+  0.001 [20]	|∎
+  0.001 [0]	|
+  0.001 [0]	|
+  0.002 [0]	|
+  0.002 [0]	|
+  0.002 [4]	|
+  0.002 [8]	|
+
+Latency distribution:
+  10% in 0.0002 secs.
+  25% in 0.0003 secs.
+  50% in 0.0004 secs.
+  75% in 0.0005 secs.
+  90% in 0.0005 secs.
+  95% in 0.0006 secs.
+  99% in 0.0021 secs.
